@@ -1,5 +1,5 @@
 applicationconfigutation:
   host: http://localhost
   port: 3305
-  username: payment-development-mona
-  password: payment-development-mona
+  username: payment-development-mona-g
+  password: payment-development-mona-g
